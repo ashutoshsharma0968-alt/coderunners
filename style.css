@@ -1,0 +1,13 @@
+body {
+    font-family: Arial;
+    background: #f4f6f9;
+    text-align: center;
+}
+
+a {
+    display: block;
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #2c3e50;
+}
